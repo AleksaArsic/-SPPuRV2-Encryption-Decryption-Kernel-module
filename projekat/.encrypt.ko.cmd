@@ -1,0 +1,1 @@
+cmd_/home/cisra/Desktop/SPPuRV2/Projekat/encrypt.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/cisra/Desktop/SPPuRV2/Projekat/encrypt.ko /home/cisra/Desktop/SPPuRV2/Projekat/encrypt.o /home/cisra/Desktop/SPPuRV2/Projekat/encrypt.mod.o ;  true
